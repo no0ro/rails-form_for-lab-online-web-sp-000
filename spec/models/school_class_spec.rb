@@ -10,3 +10,4 @@ describe SchoolClass do
   end
 
 end
+
